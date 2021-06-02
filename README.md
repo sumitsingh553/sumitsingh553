@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumitsingh553
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning devops 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on things that are related to DEVOPS culture.
 - 📫 How to reach me -- singrohanitu@gmail.com
 
