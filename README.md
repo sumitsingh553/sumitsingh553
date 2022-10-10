@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sumitsingh553
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on things that are related to DEVOPS culture.
-- 📫 How to reach me -- singrohanitu@gmail.com
+- 👀 I’m interested in DevOps projects.
+- 💞️ talk about Git, Jenkins, Ansible, Dcoker, Kubernetes, Terraform.
 
 <!---
 sumitsingh553/sumitsingh553 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
